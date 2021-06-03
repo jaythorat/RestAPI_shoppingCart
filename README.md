@@ -10,7 +10,7 @@ This API handles GET, DELETE, PUT, and POST requests from the user and sends res
  
 ## Working & Instrcutions
 
-When you'll run the code basic server will run on: `http://127.0.0.1:5000`\
+When you'll run the code by default server will run on: `http://127.0.0.1:5000`\
 
 ### For GET  operation:
 When you'll add `/cart` to the URL it will show shopping carts of all the available users and their cart content. Further to get cart details of any specific user you have 2 ways either by `/user_id` or `/user_name`.\
